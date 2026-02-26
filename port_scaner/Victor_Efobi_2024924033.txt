@@ -1,0 +1,6 @@
+PROTO | PORT   | LOCAL ADDRESS   | SERVICE      | PID    | PROCESS         | RISK         | FLAG
+--------------------------------------------------------------------------------------------------------
+
+--- SUMMARY ---
+Total Listening Ports: 0
+High-Interest Ports Exposed: 0
